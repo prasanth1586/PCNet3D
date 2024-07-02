@@ -1,5 +1,5 @@
 # PCNet3D
-will provide after publication
+code and more details will be provided after publication
 
 
 # **Acknowledgments**
